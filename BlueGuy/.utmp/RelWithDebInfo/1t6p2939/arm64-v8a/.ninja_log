@@ -1,0 +1,21 @@
+# ninja log v5
+40	403	7224922006836264	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bac2f8c283cd87e9
+10	1789	7224922021525584	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e5898ee9af4829a6
+406	765	7224922010342808	D:/week - 18/Risky Runway_Andriod/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1t6p2939/obj/arm64-v8a/libswappywrapper.so	9ca7e4ba593105c8
+16	1280	7224922016296179	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	681f45c8bf767f5c
+6	1289	7224922016392293	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4c5c9bfaf28505cb
+1	1445	7224922018195920	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	610800925d537e3c
+28	1310	7224922016839303	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4ba9310fca111120
+34	1421	7224922017959288	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	99b9dacf8dd1b8a3
+23	1650	7224922020263612	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	87a9234e69971950
+1789	2472	7224922022803461	D:/week - 18/Risky Runway_Andriod/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1t6p2939/obj/arm64-v8a/libgame.so	542d877931e2b1b1
+38	207	7227128895332804	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bac2f8c283cd87e9
+207	811	7227128899740563	D:/week - 18/Risky Runway_Andriod/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1t6p2939/obj/arm64-v8a/libswappywrapper.so	9ca7e4ba593105c8
+25	847	7227128901012145	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	681f45c8bf767f5c
+33	857	7227128901223457	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	4ba9310fca111120
+15	859	7227128901439780	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4c5c9bfaf28505cb
+29	894	7227128901868373	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	99b9dacf8dd1b8a3
+22	912	7227128902165871	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	610800925d537e3c
+19	1035	7227128903431544	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	87a9234e69971950
+11	1104	7227128904054574	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e5898ee9af4829a6
+1104	1527	7227128905851001	D:/week - 18/Risky Runway_Andriod/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1t6p2939/obj/arm64-v8a/libgame.so	542d877931e2b1b1
